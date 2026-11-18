@@ -1,0 +1,36 @@
+# Mini Banking System in C
+
+## Project Description
+Mini Banking System is a simple console-based application developed using the C programming language.
+
+It simulates basic banking operations through a menu-driven interface.
+
+## Features
+- Check Account Balance
+- Deposit Money
+- Withdraw Money
+- Exit the Program
+
+## Programming Concepts Used
+- Variables and Data Types
+- printf() and scanf()
+- do-while Loop
+- switch-case
+- if-else Statements
+- Arithmetic Operators
+
+## Initial Balance
+The program starts with an initial balance of Rs. 1000.
+
+## Language
+C Programming
+
+## Team Members
+1. __________________
+2. __________________
+
+## How to Run
+1. Download the main.c file.
+2. Open it in a C compiler.
+3. Compile and run the program.
+4. Select an operation from the menu.
